@@ -3,7 +3,7 @@
 
 ## 100 Days of Code Program by [CodeIN Community](https://www.linkedin.com/company/codein-community), Supported by [Coding Minutes](https://www.linkedin.com/company/codingminutes/).
 
-![100 Days of Code Program](assets/100-days-of-coding.png "100 Days of Code Program")
+![100 Days of Code Program](assets//100-days-of-coding.png "100 Days of Code Program")
 
 # Reports
 
